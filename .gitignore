@@ -1,0 +1,12 @@
+# Ignore build output
+.vscode/
+*.exe
+*.o
+*.out
+*.app
+dist/
+build/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
